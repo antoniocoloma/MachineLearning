@@ -1,0 +1,8 @@
+Usando el dataset de digits de sklearn, 
+
+Determinar cuál de estos algoritmos y qué hiperparámetros son los mejores para este dataset.
+
+- svm
+- RandomForestClassifier
+- LogisticRegression
+- DecisionTreeClassifier
